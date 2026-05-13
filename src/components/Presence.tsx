@@ -12,7 +12,7 @@ const cities = [
 
 export function Presence() {
   return (
-    <section className="py-24 bg-white">
+    <section id="unidades" className="py-24 bg-white">
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <motion.div 

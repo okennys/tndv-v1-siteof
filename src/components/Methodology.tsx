@@ -30,7 +30,7 @@ const steps = [
 
 export function Methodology() {
   return (
-    <section className="py-24 bg-slate-50 relative border-t border-slate-200">
+    <section id="metodologia" className="py-24 bg-slate-50 relative border-t border-slate-200">
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="text-center max-w-3xl mx-auto mb-16">
           <motion.p 

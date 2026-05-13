@@ -3,7 +3,7 @@ import { CheckCircle2 } from "lucide-react";
 
 export function About() {
   return (
-    <section id="cases" className="py-24 bg-white overflow-hidden">
+    <section id="sobre" className="py-24 bg-white overflow-hidden">
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <motion.div 

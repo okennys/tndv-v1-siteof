@@ -16,9 +16,11 @@ export function Header() {
 
   const navLinks = [
     { label: "Home", href: "#" },
+    { label: "Sobre", href: "#sobre" },
+    { label: "Especialidades", href: "#segmentos" },
     { label: "Soluções", href: "#solucoes" },
-    { label: "Cases", href: "#cases" },
-    { label: "Contato", href: "#contato" },
+    { label: "Unidades", href: "#unidades" },
+    { label: "Metodologia", href: "#metodologia" },
   ];
 
   return (
